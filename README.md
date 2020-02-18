@@ -1,23 +1,21 @@
-Project Title
-One Paragraph of project description goes here
+# Project Title
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+User Notes
 
-Prerequisites
-What things you need to install the software and how to install them
+## Getting Started
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+User note creator for user or reader of the blog website
 
-Say what the step will be
+### Prerequisites
 
-Give the example
-And repeat
+N/A
+```
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+### Installing
 
-Running the tests
-Explain how to run the automated tests for this system
+Install in wordpress by downloading a copy. Compress the file and upload in WP plugin directory or by using admin. 
+```
+
+## Running the tests
+
+Simply use [rs_user_notes] shortcode in any page to install user note for each of a post or page created. Will also create a color code for each of the post taxonomy.
