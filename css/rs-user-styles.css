@@ -1,0 +1,60 @@
+.select2-container{
+	width:100% !important;
+}
+.select2-results__option{
+	margin-bottom:0px!important;
+}
+.rs-select-wrapper{
+	margin:10px 0;
+}
+.date_control_wrapper{
+	margin-bottom:10px;
+}
+.start_date_wrapper{
+	display:table-cell;
+	font-weight: 700;
+    font-size: 13px;
+}
+.start_date_wrapper input{
+	width:94%;
+}
+.end_date_wrapper{
+	display:table-cell;
+	font-weight: 700;
+    font-size: 13px;
+}
+.end_date_wrapper input{
+	width:94%;
+}
+.rs-category-link{
+	padding:18px 5px 18px 20px;
+	color: #1d1d1d;
+	width: 80%;
+    display: table-cell;
+}
+.rs-category-link a{
+	color:#000 !important;
+}
+.rs-category-color{
+	width: 20%;
+    display: table-cell;
+}
+.rs-category-color .circle{
+	width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    float: left;
+    margin: 0 0 0 4px;
+}
+
+.rs_category{
+	float: left;
+    border-radius: 5px;
+    margin: 0 10px 10px 0;
+    padding: 0px 5px;
+    color: white;
+    font-size: 12px;
+}
+.view_tickbox_wrapper label{
+	display:inline-block!important;
+}
